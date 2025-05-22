@@ -1,0 +1,101 @@
+{
+    "Roy": {
+        "daily": {
+            "2025-04-04": {
+                "Food": 100.0,
+                "Clothing": 100.0,
+                "Trip Savings": 100.0,
+                "Education": 100.0,
+                "Transport": 100.0,
+                "Entertainment": 100.0
+            },
+            "2025-04-05": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            },
+            "2025-04-06": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            },
+            "2025-04-07": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            },
+            "2025-04-08": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            },
+            "2025-04-09": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            },
+            "2025-04-10": {
+                "Food": 0.0,
+                "Clothing": 0.0,
+                "Trip Savings": 0.0,
+                "Education": 0.0,
+                "Transport": 0.0,
+                "Entertainment": 0.0
+            }
+        },
+        "monthly": {
+            "Food": 3000.0,
+            "Clothing": 3000.0,
+            "Trip Savings": 3000.0,
+            "Education": 3000.0,
+            "Transport": 3000.0,
+            "Entertainment": 3000.0
+        }
+    },
+    "Sanju": {
+        "daily": {
+            "2025-04-04": {
+                "Food": 100.0,
+                "Clothing": 100.0,
+                "Trip Savings": 100.0,
+                "Education": 100.0,
+                "Transport": 100.0,
+                "Entertainment": 100.0
+            }
+        },
+        "monthly": {
+            "Food": 3000.0,
+            "Clothing": 3000.0,
+            "Trip Savings": 3000.0,
+            "Education": 3000.0,
+            "Transport": 3000.0,
+            "Entertainment": 3000.0
+        }
+    },
+    "Sanjeev": {
+        "daily": {},
+        "monthly": {
+            "Food": 0.0,
+            "Clothing": 0.0,
+            "Trip Savings": 0.0,
+            "Education": 0.0,
+            "Transport": 0.0,
+            "Entertainment": 0.0
+        }
+    }
+}

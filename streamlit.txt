@@ -1,0 +1,7 @@
+pip install streamlit pandas scikit-learn textblob numpy nltk
+
+
+cd C:\python\savings_tracker
+
+
+streamlit run app.py
